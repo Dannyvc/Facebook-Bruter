@@ -1,6 +1,6 @@
 #FaceBruter
 ===============
-      Facebookbruter Is A Facebook Cracking Tool With A Wordlist You Can Use a Dictionnary File to crack logins
+    Facebookbruter Is A Facebook Cracking Tool With A Wordlist You Can Use a Dictionnary File to crack logins
 
 # Install Module
       perl -MCPAN -e 'install Net::SSLeay'
