@@ -6,21 +6,15 @@ Facebookbruter Is A Facebook Cracking Tool With A Wordlist You Can Use a Diction
 # Install Module
 
 perl -MCPAN -e 'install Net::SSLeay'
-
- ____                          
-|  _ \  __ _ _ __  _ __  _   _ 
-| | | |/ _` | '_ \| '_ \| | | |
-| |_| | (_| | | | | | | | |_| |
-|____/ \__,_|_| |_|_| |_|\__, |
-                         |___/ 
 	Usage:  perl facebrute.pl [OPTIONS] \n
+-----------------------------------------------------------
 OPTIONS:
+--------------------------------------------------------------------------------------
 (user)  => (use The Victem username to bruteforce )  
-(file)  => Specify the wordlist file to bruteforce (default: $HOME/wordlists/)  
-(help)  => Print this help, then exit ! \n 
+(file)  => Specify the wordlist file to bruteforce (default: /wordlists/)   
 ---------------------------------------------------------------------------------------
 Ex : 
-perl facebruter.pl <username> <wordlist.lst> 
+perl facebruter.pl <V_username> <wordlist.lst> 
 
 Author : imadoxhunter / Danny 
 
